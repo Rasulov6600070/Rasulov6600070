@@ -22,9 +22,3 @@ const Skills = ["Fronted Development","Backend Development","Android  Developmen
 
 ## Additional
 [![My Skills](https://skillicons.dev/icons?i=git,github,blender,cloudflare,figma,gradle,mongodb,netlify&theme=dark)](https://skillicons.dev)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rasulov6600070&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rasulov6600070&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
