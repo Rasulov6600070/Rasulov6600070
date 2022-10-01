@@ -18,10 +18,10 @@ const Skills = ["Fronted Development","Backend Development","Android  Developmen
 ## Back end
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,firebase&theme=dark)](https://skillicons.dev) <br/>
 ## Game Development
-[![My Skills](https://skillicons.dev/icons?i=unity,dotnet,firebase&theme=dark)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=unity&theme=dark)](https://skillicons.dev) <br/>
 
 ## Additional
-[![My Skills](https://skillicons.dev/icons?i=git,github,blender,cloudfare,figma,gradle,mongodb,netlify&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,blender,cloudflare,figma,gradle,mongodb,netlify&theme=dark)](https://skillicons.dev)
 
 
 
