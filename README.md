@@ -21,4 +21,4 @@ const Skills = ["Fronted Development","Backend Development","Android  Developmen
 [![My Skills](https://skillicons.dev/icons?i=unity&theme=dark)](https://skillicons.dev) <br/>
 
 ## Additional
-[![My Skills](https://skillicons.dev/icons?i=git,github,blender,cloudflare,figma,gradle,mongodb,netlify&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,blender,cloudflare,figma,mongodb,netlify&theme=dark)](https://skillicons.dev)
