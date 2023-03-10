@@ -14,9 +14,12 @@ const Skills = ["Fronted Development","Backend Development","Android  Developmen
 # 💻 Tech Stack:
 
 ## Front end:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react&theme=dark)](https://skillicons.dev) <br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,javascript,react,bootstrap&theme=dark)](https://skillicons.dev) <br/>
 ## Back end
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) <br/>
+## Mobile Development:
+[![My Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev) <br/>
+
 ## Game Development
 [![My Skills](https://skillicons.dev/icons?i=unity&theme=dark)](https://skillicons.dev) <br/>
 
