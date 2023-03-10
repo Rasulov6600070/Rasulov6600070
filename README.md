@@ -1,15 +1,7 @@
-### Hi there 👋 I'm Eyyub Rasulov!
-
-const Skills = ["Fronted Development","Backend Development","Mobile Development","Game Development"]
-
+### const Skills = ["Fronted Development","Backend Development","Mobile Development","Game Development"]
 
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" alt="Coding" width="400" />
-
-
-## 🌐 Socials:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eyyub-rasulov-aa4288191/)  
-
 
 # 💻 Tech Stack:
 
