@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Eyyub Rasulov!
 
-const Skills = ["Fronted Development","Backend Development","Android  Development","IOS Development","Game Development"]
+const Skills = ["Fronted Development","Backend Development","Mobile Development","Game Development"]
 
 
 
