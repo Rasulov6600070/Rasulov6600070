@@ -1,4 +1,4 @@
-### const Skills = [<br/>
+### const Skills = [
   "Frontend Development",<br/>
   "Backend Development", <br/>
   "Mobile Development", <br/>
